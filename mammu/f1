@@ -1,0 +1,31 @@
+public class Venkat
+{
+public int add()
+{
+System.out.println("sum of two numbers ")
+retun 0
+}
+public int sub()
+{
+System.out.println("lonem ledu dolla");
+return 0;
+}
+public int multi(){
+
+System.out.println(" nara golaki namaskaram");
+}
+public static void main(String args[])
+{
+Venkat v = new Venkat ()
+System.out.println("plz ignore this developer ");
+v.add();
+v.sub();
+Venkat.multi();
+Venkat.div();
+
+
+}
+
+
+
+}
