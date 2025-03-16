@@ -1,5 +1,0 @@
-hello world
-creating file for pull
-#!/bin/bash
-touch filea
-echo 'Hello'
